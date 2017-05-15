@@ -2,7 +2,7 @@ import { Component, createElement } from 'react'
 import ReactDOM from 'react-dom'
 import simulant from 'simulant'
 
-import enhanceWithEvent from '.'
+import enhanceWithEvent from '../src'
 
 const getComponentWithHandler = ( handler, ...args) =>
   enhanceWithEvent(...args)(class extends Component {
