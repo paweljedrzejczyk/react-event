@@ -1,0 +1,23 @@
+{
+  "name": "@pinnacleio/react-event",
+  "version": "0.0.0",
+  "description": "Declarative way to handle events outside / inside of React Component.",
+  "main": "dist/index.js",
+  "files": [
+    "dist/index.js"
+  ],
+  "author": "rpunkfu",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^20.0.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "rollup": "^0.41.6",
+    "rollup-plugin-babel": "^2.7.1",
+    "simulant": "^0.2.2"
+  }
+}
