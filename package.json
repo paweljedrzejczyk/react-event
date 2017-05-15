@@ -1,6 +1,6 @@
 {
   "name": "@pinnacleio/react-event",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Declarative way to handle events outside / inside of React Component.",
   "main": "dist/index.js",
   "files": [
